@@ -4,7 +4,7 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - MainController
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -39,17 +39,17 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: BackGround
-    uniqueID: 2399062379
+  - name: Background
+    uniqueID: 1169015313
     locked: 0
-  - name: MiddleGround
-    uniqueID: 765043943
+  - name: Middleground
+    uniqueID: 3901441171
     locked: 0
   - name: Foreground
-    uniqueID: 3545448333
+    uniqueID: 2667148573
     locked: 0
   - name: Player
-    uniqueID: 2542593287
+    uniqueID: 217527471
     locked: 0
   - name: Default
     uniqueID: 0
